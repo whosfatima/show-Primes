@@ -19,7 +19,7 @@ This is a simple yet clean web project built with **HTML**, **CSS**, and **JavaS
 ## 📸 Demo
 
 👇 You can try the live demo here:  
-**[👉 Demo Link](https://your-demo-link.com)**
+**[👉 Demo Link](https://whosfatima.github.io/show-Primes/)**
 
 ---
 
